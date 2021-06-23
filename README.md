@@ -2,7 +2,7 @@
 
 ## Running the program
 
-### Genetic algorithmn
+### Genetic algorithm
 
 ```bash
 python drone_GA1.py [population-size] [number-of-iterations] 

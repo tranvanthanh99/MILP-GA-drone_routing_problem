@@ -4,6 +4,8 @@ import random
 import math
 from utils import print_solution
 
+### implement genetic algorithm for drone routing problem with capacity constraints
+
 vrp = {}
 
 vrp['capacity'] = 8.00
