@@ -3,7 +3,7 @@
 ### Bibliography
 
 This repository contains python code of a MILP model and genetic algorithm to solve the Drone Routing Problem with capacity and energy constraints. The MILP model was implemented from this paper: 
-```Rabta, Boualem; Wankmüller, Christian; Reiner, Gerald  (2018). A drone fleet model for last-mile distribution in disaster relief operations. International Journal of Disaster Risk Reduction. https://sci-hub.mksa.top/10.1016/j.ijdrr.2018.02.020```
+Rabta, Boualem; Wankmüller, Christian; Reiner, Gerald  (2018). A drone fleet model for last-mile distribution in disaster relief operations. International Journal of Disaster Risk Reduction. https://sci-hub.mksa.top/10.1016/j.ijdrr.2018.02.020
 
 ## Running the program
 
